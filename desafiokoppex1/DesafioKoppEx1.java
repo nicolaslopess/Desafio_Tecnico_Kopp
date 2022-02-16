@@ -14,7 +14,5 @@ public class DesafioKoppEx1 {
         valor.soma();
 
         System.out.println("total = R$" + valor.soma);
-
     }
-
 }
